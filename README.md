@@ -8,14 +8,14 @@ npm install
 # o
 yarn add
 ```
-Crear el .env con los datos que correspondan. Ver .env.example
+Creá el .env con los datos que correspondan. Ver .env.example
 
 
 ## Iniciar sv
 
-Ejecuta el servidor de desarrollo:
+Ejecutá el servidor de desarrollo:
 
-``bash
+```bash
 npm run dev
 # o
 yarn dev
