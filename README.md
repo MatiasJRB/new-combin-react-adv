@@ -21,5 +21,5 @@ npm run dev
 yarn dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000) con tu navegador para ver el resultado.
+Abrí [http://localhost:3000](http://localhost:3000) con tu navegador para ver el resultado.
 
