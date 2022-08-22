@@ -1,5 +1,5 @@
 Este es un proyecto [Next.js](https://nextjs.org/) inicializado con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-Elegí Next JS porque actualmente estoy trabajando en el proyecto Full Stack Next JS.
+Elegí Next JS porque actualmente estoy trabajando en un proyecto Full Stack Next JS.
 
 Instalá las dependencias con 
 
